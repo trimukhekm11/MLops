@@ -1,5 +1,5 @@
 setup:
-	python3 -m venv ~/.MLOps
+	python3 -m venv ~/.MLops
 	#source ~/.MLOps/bin/activate
 
 install:
