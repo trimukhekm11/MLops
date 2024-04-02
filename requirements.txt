@@ -2,3 +2,4 @@ make
 pylint
 pytest-cov
 pandas
+numpy
